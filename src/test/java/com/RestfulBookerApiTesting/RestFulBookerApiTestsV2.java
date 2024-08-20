@@ -96,7 +96,7 @@ public class RestFulBookerApiTestsV2 {
 		createBookingRequest.setBookingDates(new BookingDates("2018-01-01", "2018-01-05"));
 		createBookingRequest.setAdditionalneeds("breakfast");
 
-		//System.out.println(createBookingRequest.toString());
+		System.out.println(createBookingRequest.toString());
 		
 		
 		
