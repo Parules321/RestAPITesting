@@ -27,7 +27,7 @@ public class RestFulBookerApiTestsV2 {
 
 	@BeforeClass
 	public void setup() {
-		// Set the base url
+		// Set the base url - - adding comment for github
 		baseURI = "https://restful-booker.herokuapp.com/";
 	}
 
